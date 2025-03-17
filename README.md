@@ -6,7 +6,7 @@ En este repositorio encontrarás una serie de ejercicios de Java relacionados co
 
 - **📄 Archivos PDF**: Contienen los enunciados y explicaciones de los ejercicios.
   - *herencia.pdf*: Ejercicios sobre el concepto de herencia en Java.
-  - *clase_abstracta.pdf*: Ejercicios sobre clases abstractas.
+  - *abstract.pdf*: Ejercicios sobre clases abstractas.
   - *interface.pdf*: Ejercicios relacionados con interfaces en Java.
 
 - **🖥️ Directorio `src`**: Contiene las soluciones de los ejercicios organizadas en paquetes.
